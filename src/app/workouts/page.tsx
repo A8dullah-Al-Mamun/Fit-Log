@@ -6,6 +6,9 @@ const getWorkout = async (): Promise<Workout[]> => {
     const res = await fetch(
         "https://api.abcz.workers.dev/api/fitlog"
     );
+    if (!res.ok) {
+        throw new Error(`Failed to fetch data: ${res.status}`);
+    }
     const data = await res.json();
     return data;
 };
