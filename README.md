@@ -1,14 +1,10 @@
-# 💪 FitLog — Workout Library
+# 💪 FitLog  Workout Library
 
 FitLog is a responsive workout library and workout planning web application built with Next.js. It allows users to browse workouts, view detailed exercise information, add exercises to today's plan, save workouts for later, and manage their daily workout plan from a single place.
 
-## 🚀 Live Demo
+##  Live Demo
 
-**Live Link:** [Add your deployed live link here](#)
-
-## 📦 GitHub Repository
-
-**Repository:** [Add your GitHub repository link here](#)
+**Live Link:**  https://fitlog-ashy-chi.vercel.app/
 
 ---
 
